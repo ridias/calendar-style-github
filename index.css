@@ -1,0 +1,36 @@
+#calendar{
+    width: 810px;
+    height: 170px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+h1{
+    text-align:center
+}
+
+.square{
+    stroke: grey;
+    fill: white;
+}
+
+.squareWeakGreen{
+    stroke: #00FF20;
+    fill: #00FF20;
+}
+
+.squareMiddleGreen{
+    stroke: #00BF18;
+    fill: #00BF18;
+}
+
+.squareStrongGreen{
+    stroke: #007F10;
+    fill: #007F10;
+}
+
+.output{
+    stroke: grey;
+    fill: white;
+}
